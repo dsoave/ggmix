@@ -139,7 +139,7 @@ ggmix <- function(x, y,
                   dfmax = p_design + 2,
                   verbose = 0) {
   this.call <- match.call()
-
+  print("worked")
   # Check input -------------------------------------------------------------
 
   estimation <- tryCatch(match.arg(estimation),

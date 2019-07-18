@@ -5,3 +5,5 @@
 [![Coverage status](https://codecov.io/gh/sahirbhatnagar/ggmix/branch/master/graph/badge.svg)](https://codecov.io/github/sahirbhatnagar/ggmix?branch=master)
 
 Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
+
+This is a line from RStudio

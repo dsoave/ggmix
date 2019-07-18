@@ -429,6 +429,7 @@ ggmix <- function(x, y,
   fit$call <- this.call
   
   print("worked")
+  print("worked2")
   return(fit)
   
 }
